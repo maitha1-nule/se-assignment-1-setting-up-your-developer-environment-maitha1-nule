@@ -1,0 +1,14 @@
+##This is the process I followed to set up my development Environment.
+
+1. 
+I started with installing Windows 11 on my laptop. I did this using a bootable USB drive. 
+I downloaded the Windows 11 ISO file from the Microsoft website and used Rufus to create a bootable USB drive.
+I then booted my laptop from the USB drive and installed Windows 11.
+To confriom that Windows 11 was installed, I checked the system properties by right-clicking on the start button
+and selecting system. This is the screenshot to confirm that Windows 11 was installed.
+The screenshot is, Windows11.png
+
+2.
+
+
+
