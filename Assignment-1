@@ -5,15 +5,34 @@ I started with installing Windows 11 on my laptop. I did this using a bootable U
 I downloaded the Windows 11 ISO file from the Microsoft website and used Rufus to create a bootable USB drive.
 I then booted my laptop from the USB drive and installed Windows 11.
 To confriom that Windows 11 was installed, I checked the system properties by right-clicking on the start button
-and selecting system. This is the screenshot to confirm that Windows 11 was installed.
-The screenshot is, Windows11.png
+and selecting system. This is the scr!eenshot to confirm that Windows 11 was installed.
+[The screenshot is, Windows11.png](Windows11.png)
 
-2. my prefered text editor is viual studion code. Ive attached a screenshot of it, to prove I've actually installed it. The name of the screenshot is tillteled, Visual Studio code.png
+2. my prefered text editor is viual studion code. Ive attached a screenshot of it, to prove I've actually installed it. [The name of the screenshot is tillteled, Visual Studio code.png!](<Visual Studio Code.png>)
 
 3.
-Created a Github account and created my first repository the screenshot to prove is tittled githun account.png
+Created a Github ccount and created my first repository the screenshot to prove is tittled  [githun account.png](<Github account.png>)
 
-4. Installed the required programming languages. I've attached a screenshot to prove they are all intalled, the screenshot is tittled Programming.png
+4. Installed the required programming languages. I've attached a screenshot to prove they are all intalled, [the screenshot is tittled Programming.png!](Programming.png)
+
+5. I installed the suggested package, pip python using the suggested command. Here is the image:
+![This is the pip python image file](<python manger (pip).png>)
+
+6.I configured and dowloaded the mysql database as asked: This i the pictute below:
+![This is the mysql image picture as asked](sql.png)
+
+7. I installed and Set Up my Development Environments and Virtualization.
+   a. first i make sure every time i start a new project i use a virtual environment.
+   example below in this picture i was python virtual env:
+   ![This is the screenshotfor the python virtual environment](dj.png)
+
+   b. This one is for the the set up i was trying with virtual machines. 
+![This is the image for the vmware i downloaded and tried running some machines virtually](kali.png)
+
+8. I installed the necessary extensions in may favourite IDE. The pictute is below.
+![This is the extesions dowmloadedc](extensions.png)
+
+
 
 
 
